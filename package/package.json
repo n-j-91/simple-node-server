@@ -13,7 +13,6 @@
     "moment": "^2.22.1"
   },
   "bundledDependencies": [
-    "express",
-    "moment"
+    "express"
   ]
 }
